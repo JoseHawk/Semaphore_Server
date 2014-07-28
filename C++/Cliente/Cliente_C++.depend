@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1401113662 source:c:\users\jose\desktop\sockets\cliente_c++\main.cpp
+	<stdio.h>
+	<windows.h>
+	<winsock.h>
+
+1401444303 source:c:\users\jose\desktop\edcs project\c++\cliente\main.cpp
+	<WS2tcpip.h>
+	<windows.h>
+	<winsock2.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1402942204 source:c:\users\jose\desktop\semaphore server project - integers\c++\cliente\main.cpp
+	<WS2tcpip.h>
+	<windows.h>
+	<winsock2.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<conio.h>
+	<iostream>
+	<string>
+
+1403294678 source:c:\users\jose\desktop\semaphore server project\c++\cliente\main.cpp
+	<WS2tcpip.h>
+	<windows.h>
+	<winsock2.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<conio.h>
+	<iostream>
+	<string>
+
